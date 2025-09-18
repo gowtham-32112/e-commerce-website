@@ -176,12 +176,6 @@ Please keep code modular, use TypeScript types, and run lint before PR.
 
 ---
 
-## 📄 License
-
-This project is released under the **MIT License**.
-
----
-
 ## ✉️ Contact
 
 If you want a tailored README with exact `package.json` scripts, README badges or screenshots included, tell me and I’ll generate an updated version — I can also create a concise GitHub-ready README if you prefer.
